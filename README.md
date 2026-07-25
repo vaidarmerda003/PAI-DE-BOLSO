@@ -24,4 +24,4 @@ React Navigation
 Axios + [nome da API usada]
 AsyncStorage
 # Equipe
-Aluno / Papel Marcos Paulo / Tech Lead
+Aluno / Papel Marcos Paulo , Rodrigo , hiago / Tech Lead
